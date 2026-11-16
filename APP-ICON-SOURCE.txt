@@ -1,0 +1,3 @@
+Subdeck app icon: public App Store artwork for app ID 6798927583, supplied by the app developer.
+Source: https://apps.apple.com/cn/app/subdeck-订阅管理/id6798927583
+The 180, 192, and 512 pixel files are the corresponding unmodified image variants served by Apple's image CDN.

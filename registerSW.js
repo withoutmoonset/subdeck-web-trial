@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/subdeck-web-trial/sw.js', { scope: '/subdeck-web-trial/' })})}
